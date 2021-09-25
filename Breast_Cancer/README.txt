@@ -1,0 +1,1 @@
+REDE NEURAL ARTIFICIAL PARA CLASSIFICAÇÃO DE CÂNCER DE MAMA - (utilizando a base de dados Breast Cancer) 
