@@ -1,0 +1,1 @@
+REDE NEURAL ARTIFICIAL PARA CLASSIFICAÇÃO DO TIPO DE FLOR IRIS - (Estudo e aplicação de deep learning no dataset Iris, para identificar o tipo de flor: iris setosa, iris virginica ou iris versicolor.)
